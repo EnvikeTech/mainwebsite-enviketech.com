@@ -23,7 +23,7 @@ export default function Contact(){
 
       <footer className="footer container">
         <div>
-          <strong>EnvikeTech Pvt. Ltd.</strong>
+          <strong>Envike Tech Pvt. Ltd.</strong>
         </div>
       </footer>
     </div>
